@@ -104,7 +104,7 @@ But wait... it depends on the **type of memory**!
 So, while it's true that **1 byte = 8 bits**, the number of **transistors per byte** varies based on memory technology! 🚀  
 
 # How many transistors are there in 8gb ram?
-```markdown
+
 # ⚙️ How Many 0s, 1s, and Transistors in 8GB RAM?  
 
 ## 🔢 **How Many 0s and 1s (Bits) Are in 8GB RAM?**
@@ -145,6 +145,6 @@ The number of transistors depends on the **type of RAM**:
 | **SRAM (CPU Cache)** | 6 per bit | **412.3 billion transistors** |
 
 So, **your 8GB RAM is packed with billions of transistors switching 0s and 1s at lightning speed!** ⚡📂  
-```
+
 
 
