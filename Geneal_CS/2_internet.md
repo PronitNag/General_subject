@@ -78,3 +78,16 @@ A website comprises of two types of paths:
 - A **website** comprises **only static resources**.
 - A **web application** comprises **both static and dynamic resources**.
 
+# for what i understand that my computer is also a part of the internet by the can have access to my files right?
+
+Yes, your computer is technically a part of the internet when it is connected to a network. However, not everyone can access your files unless you specifically allow it. Here’s why:
+
+Your Computer as Part of the Internet
+When connected to Wi-Fi or Ethernet, your device gets an IP address from your Internet Service Provider (ISP).
+This allows your device to send and receive data over the internet.
+
+# What is the Internet?
+## 📹 Demo Video
+Watch the demo here: [YouTube Video](https://www.youtube.com/watch?v=7_LPdttKXPc)
+
+
