@@ -43,4 +43,37 @@ How to Create Your Own Web (Website or Web App)?
 ```plaintext
 [Database] → [Backend Application] → [Middleware] → [API] → [Web Server] → [Browser]
 
+ # What is Web?
+- A network comprises a group of computers connected with each other for sharing information and resources.
+- **ARPANET** is the first computer network introduced by **US-DOD**.  
+  *(Advanced Research Projects Agency Network)*
+- **CERN** developed the concept of the Internet.
+- **Tim Berners-Lee** introduced the concept of the "Web".
+- The Web is a portion of the Internet with restricted access.
+- **W3C** maintains the standards of the Web.  
+  *(World Wide Web Consortium)*
+- The latest version of the Web is **Web 3.0**.
+
+# Create a New Web Application
+
+## Web Comprises Various Types of Content:
+- **Website**
+- **Web Application**
+- **Blog**
+- **Micro Blog**
+- **Wiki** (*Hawaiian Word - Quick*)
+- **Podcasting**
+
+## Website
+- A website is a **virtual directory** on a web server.
+- It provides **access to the resources** of the server.
+
+## Website Paths
+A website comprises of two types of paths:
+1. **Physical Path**
+2. **Virtual Path**
+
+## Website vs Web Application
+- A **website** comprises **only static resources**.
+- A **web application** comprises **both static and dynamic resources**.
 
