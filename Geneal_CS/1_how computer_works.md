@@ -130,13 +130,7 @@ However, since there is an **overlap** between the binary representations of **n
 ## 🔮 **What is ASCII?**
 ASCII (**American Standard Code for Information Interchange**) assigns a **unique number** to each letter, symbol, and character.
 
-For example:
-- The letter **A** is mapped to the number **65** in ASCII.
-- The letter **B** is mapped to **66**.
-- The letter **C** is mapped to **67**, and so on.
 
-## 💬 **Example: Decoding a Text Message in Binary**
-If you received a **text message**, the binary data under that message might represent the numbers **72, 73, and 33**.
 
 ### **Mapping to ASCII:**
 | Binary Number | Decimal Value | ASCII Character |
@@ -156,10 +150,6 @@ So next time you send a message, remember that it's just **binary magic at work!
 
 ## 🖼️ **How Are Images Stored in Binary?**
 Images are stored as a collection of **pixels**, and each pixel has a **color value**. Common image encoding formats include:
-- **BMP (Bitmap)** – Stores pixel-by-pixel data.
-- **JPEG (Joint Photographic Experts Group)** – Uses compression to reduce file size.
-- **PNG (Portable Network Graphics)** – Supports transparency.
-- **GIF (Graphics Interchange Format)** – Used for simple animations.
 
 Each **pixel’s color** is stored using:
 - **RGB (Red, Green, Blue)** values (e.g., `255, 0, 0` for pure red).
@@ -176,18 +166,6 @@ Each **pixel’s color** is stored using:
 
 ## 🎥 **How Are Videos Stored in Binary?**
 Videos are a sequence of **images (frames)** shown rapidly. Some common **video encoding formats** include:
-- **MP4 (H.264, H.265)** – A widely used compressed format.
-- **AVI (Audio Video Interleave)** – An older format with large file sizes.
-- **MKV (Matroska Video)** – Supports multiple audio and subtitle tracks.
-
-Videos are compressed using **codecs** (e.g., H.264, VP9), which convert each frame into **binary data** efficiently.
-
-### **Example: A Video Frame in Binary**
-| Frame | Image Binary Data |
-|-------|------------------|
-| Frame 1 | `01101001 11010010 ...` |
-| Frame 2 | `10100110 01101011 ...` |
-| Frame 3 | `10011011 00101110 ...` |
 
 Just like **ASCII for text**, **image and video files use specialized encoding tables** to convert visual data into binary! 🚀
 
