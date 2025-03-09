@@ -42,6 +42,7 @@ How to Create Your Own Web (Website or Web App)?
 # **Data Flow Representation**
 ```plaintext
 [Database] → [Backend Application] → [Middleware] → [API] → [Web Server] → [Browser]
+```
 
  # What is Web?
 - A network comprises a group of computers connected with each other for sharing information and resources.
