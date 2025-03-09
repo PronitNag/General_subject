@@ -68,45 +68,38 @@ So, you’re telling me that a **super-powerful gaming PC** running 4K graphics,
 - That’s exactly how a computer works, just with **millions** of tiny switches (transistors)!  
 - The more switches, the smarter the computer (like a super-fast room full of people flipping switches 🤣).
 
----
+- Using these transistors we can store values, store data, compute, and do everything we can with computers
 
-### **2️⃣ Text, Images, and Videos? ALL Binary!**
-- You type **"LOL"**, but your computer sees:  
-  - `01001100 01001111 01001100`  
-- You watch a **cat video**, but your computer just sees:
-  - `1001010110100110101...` (A bunch of 0s & 1s pretending to be a cat 🐱).
-- Even your favorite **songs** are just 0s and 1s dancing in your speakers! 🎵
+  # in 1 byte memory how many O and 1 are there?
+  In 1 byte of memory, there are exactly 8 bits.
 
----
+Since each bit can be either 0 or 1, a byte can store 8 binary digits (0s or 1s)
 
-### **3️⃣ CPU: The Ultimate Yes/No Machine**
-- The **CPU (Brain of the Computer)** doesn’t think in words or emotions…  
-- It only knows:  
-  - **"Yes (1)"** or **"No (0)"**  
-  - **"True (1)"** or **"False (0)"**  
-  - **"Pizza? (1)" or "No Pizza? (0)"** 🍕😂  
+# means in 1 byte there are 8 transistors?
+# 🖥️ How Many Transistors Are in 1 Byte of Memory?  
 
----
+## **🔹 Basic Understanding**
+- **1 Byte = 8 Bits**  
+- Each **bit** stores either `0` or `1`.  
+- Since a bit is stored using **transistors**, you might think:  
+  **"1 Byte = 8 Transistors"** 🤔  
 
-### **4️⃣ Computers Be Like:**
-🚀 **Human:** "Show me a cool animation!"  
-💻 **Computer:** "Sure! Let me flip a few **billion** 0s and 1s per second!"  
-🤖 **Result:** *A mind-blowing HD animation!*  
+But wait... it depends on the **type of memory**!  
 
 ---
 
-### **5️⃣ So, Why Binary?**
-✅ Simple: Easy to represent using electrical signals (ON/OFF).  
-✅ Reliable: Less chance of errors than using more complex number systems.  
-✅ FAST: Millions of calculations per second just by flipping 0s and 1s!  
+## **🔬 Transistor Count in Different Types of Memory**
+| **Memory Type** | **Transistors per Bit** | **Transistors in 1 Byte (8 Bits)** |
+|---------------|-------------------|-------------------------|
+| **SRAM (CPU Cache)** | 6 transistors per bit | **8 × 6 = 48 transistors** |
+| **DRAM (RAM Modules)** | 1 transistor + 1 capacitor per bit | **8 transistors + 8 capacitors** |
+| **Flash Memory (SSD, USB)** | 1 transistor per bit | **8 transistors** |
 
 ---
 
-### **Final Thoughts 🤔**
-Computers may be **flipping zeros and ones** at lightning speed, but somehow, they manage to:  
-✅ Run **Hollywood-level graphics** 🎬  
-✅ Beat humans at **Chess & AI** 🤖  
-✅ Help you **procrastinate on the internet** 😆  
+## **💡 Summary**
+✅ **At least 8 transistors are needed to store 1 byte.**  
+✅ **But depending on the memory type, it can be more (like 48 in SRAM)!**  
 
-**And all of this happens… in just 0️⃣s and 1️⃣s.**  
-Mind = Blown 🤯💥  
+So, while it's true that **1 byte = 8 bits**, the number of **transistors per byte** varies based on memory technology! 🚀  
+
