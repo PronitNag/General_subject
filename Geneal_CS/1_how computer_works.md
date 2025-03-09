@@ -103,3 +103,48 @@ But wait... it depends on the **type of memory**!
 
 So, while it's true that **1 byte = 8 bits**, the number of **transistors per byte** varies based on memory technology! 🚀  
 
+# How many transistors are there in 8gb ram?
+```markdown
+# ⚙️ How Many 0s, 1s, and Transistors in 8GB RAM?  
+
+## 🔢 **How Many 0s and 1s (Bits) Are in 8GB RAM?**
+We know:  
+- **1 Byte = 8 Bits**  
+- **1 Kilobyte (KB) = 1024 Bytes**  
+- **1 Megabyte (MB) = 1024 KB**  
+- **1 Gigabyte (GB) = 1024 MB**  
+- **8GB = 8 × 1024 × 1024 × 1024 Bytes**  
+
+Now, let's calculate the total number of **bits (0s and 1s) in 8GB RAM**:
+
+```
+8 × 1024 × 1024 × 1024 × 8 = 68,719,476,736 bits
+```
+
+So, **8GB RAM contains 68.7 billion bits (0s and 1s)!** 🤯  
+
+---
+
+## 🔬 **How Many Transistors Are in 8GB RAM?**
+The number of transistors depends on the **type of RAM**:
+
+### **1⃣ DRAM (Used in Most RAM Modules)**
+- **1 Bit = 1 Transistor + 1 Capacitor**  
+- **8GB RAM (68.7 billion bits) = 68.7 billion transistors + 68.7 billion capacitors**  
+
+### **2⃣ SRAM (Used in CPU Cache)**
+- **1 Bit = 6 Transistors**  
+- **8GB RAM (68.7 billion bits) × 6 = 412.3 billion transistors**  
+
+---
+
+## **💡 Summary**
+| **Memory Type** | **Transistors per Bit** | **Total Transistors in 8GB RAM** |
+|---------------|-------------------|-------------------------|
+| **DRAM (Regular RAM)** | 1 per bit | **68.7 billion transistors** |
+| **SRAM (CPU Cache)** | 6 per bit | **412.3 billion transistors** |
+
+So, **your 8GB RAM is packed with billions of transistors switching 0s and 1s at lightning speed!** ⚡📂  
+```
+
+
