@@ -118,6 +118,79 @@ Here, only the `2's` place and `1's` place are `ON`, meaning:
 That's how computers **store and process numbers using just 0s and 1s!** 💪💡  
 
 
+# ok ascii table convert a specific letter to a specific number then it gets converted to a binary value just like that there should be a table for videos and images?
+
+# 📝 Text, Images, and Videos in Binary
+
+## 🔢 **Binary Representation of Letters**
+Just as **numbers** are represented using **binary patterns** of `1s` and `0s`, **letters** are also stored using binary!  
+
+However, since there is an **overlap** between the binary representations of **numbers and letters**, the **ASCII standard** was created.  
+
+## 🔮 **What is ASCII?**
+ASCII (**American Standard Code for Information Interchange**) assigns a **unique number** to each letter, symbol, and character.
+
+For example:
+- The letter **A** is mapped to the number **65** in ASCII.
+- The letter **B** is mapped to **66**.
+- The letter **C** is mapped to **67**, and so on.
+
+## 💬 **Example: Decoding a Text Message in Binary**
+If you received a **text message**, the binary data under that message might represent the numbers **72, 73, and 33**.
+
+### **Mapping to ASCII:**
+| Binary Number | Decimal Value | ASCII Character |
+|--------------|--------------|----------------|
+| `01001000` | 72 | **H** |
+| `01001001` | 73 | **I** |
+| `00100001` | 33 | **!** |
+
+Thus, the message would be:  
+```
+H I !
+```
+
+So next time you send a message, remember that it's just **binary magic at work!** ✨💻  
+
+---
+
+## 🖼️ **How Are Images Stored in Binary?**
+Images are stored as a collection of **pixels**, and each pixel has a **color value**. Common image encoding formats include:
+- **BMP (Bitmap)** – Stores pixel-by-pixel data.
+- **JPEG (Joint Photographic Experts Group)** – Uses compression to reduce file size.
+- **PNG (Portable Network Graphics)** – Supports transparency.
+- **GIF (Graphics Interchange Format)** – Used for simple animations.
+
+Each **pixel’s color** is stored using:
+- **RGB (Red, Green, Blue)** values (e.g., `255, 0, 0` for pure red).
+- These values are converted into **binary** for storage.
+
+### **Example: Storing a Pixel in Binary**
+| Color | Decimal (RGB) | Binary Representation |
+|-------|--------------|----------------------|
+| Red | (255, 0, 0) | `11111111 00000000 00000000` |
+| Green | (0, 255, 0) | `00000000 11111111 00000000` |
+| Blue | (0, 0, 255) | `00000000 00000000 11111111` |
+
+---
+
+## 🎥 **How Are Videos Stored in Binary?**
+Videos are a sequence of **images (frames)** shown rapidly. Some common **video encoding formats** include:
+- **MP4 (H.264, H.265)** – A widely used compressed format.
+- **AVI (Audio Video Interleave)** – An older format with large file sizes.
+- **MKV (Matroska Video)** – Supports multiple audio and subtitle tracks.
+
+Videos are compressed using **codecs** (e.g., H.264, VP9), which convert each frame into **binary data** efficiently.
+
+### **Example: A Video Frame in Binary**
+| Frame | Image Binary Data |
+|-------|------------------|
+| Frame 1 | `01101001 11010010 ...` |
+| Frame 2 | `10100110 01101011 ...` |
+| Frame 3 | `10011011 00101110 ...` |
+
+Just like **ASCII for text**, **image and video files use specialized encoding tables** to convert visual data into binary! 🚀
+
 
 
 # means in 1 byte there are 8 transistors?
