@@ -242,5 +242,11 @@ The number of transistors depends on the **type of RAM**:
 
 So, **your 8GB RAM is packed with billions of transistors switching 0s and 1s at lightning speed!** ⚡📂  
 
+# In simple words how can we expalin what is a transistor?
+- transistor is like a tiny electronic switch that can turn on (1) or off (0), electrical signal is very small
+
+# what is a capacitory?
+- a capacitor is like a tiny battery that stores and releases electricity when needed.
+
 
 
